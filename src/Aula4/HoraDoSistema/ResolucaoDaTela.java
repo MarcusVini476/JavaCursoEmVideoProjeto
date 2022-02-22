@@ -1,5 +1,6 @@
 package Aula4.HoraDoSistema;
 
+import javax.swing.*;
 import java.awt.*;
 
 public class ResolucaoDaTela {
